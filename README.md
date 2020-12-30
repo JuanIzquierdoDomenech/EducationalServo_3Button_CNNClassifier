@@ -5,9 +5,10 @@ This project shows an example of how to use a simple Keras model to implement cl
 1. Pull the code
 2. Create a Python environment and activate it
 
-*e.g.* 
-`virtualenv -p python3 .venv`
-`source .venv/bin/activate`
+    *e.g.* 
+    1. `virtualenv -p python3 .venv` to create the virtual environment,
+
+    2. `source .venv/bin/activate` to activate it an start installing dependencies.
 
 3. Install requirements
 
