@@ -40,6 +40,9 @@ This project shows an example of how to use a simple Keras model to implement cl
 The classification predicts the state (3 possibilities) of the button
 
 *e.g.*
+
 ![Reference](REFERENCE.png)
+
+## Folder structure
 
 ![Folder structure](FOLDER_STRUCTURE.png)
